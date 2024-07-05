@@ -1,11 +1,3 @@
-//------------------------------------------------------------------------------
-// NAME: Kajal Tomar
-// STUDENT NUMBER: 7793306
-// COURSE: COMP3490
-// INSTRUCTOR: John Braico
-// ASSIGNMENT: 2, QUESTION: 1
-//------------------------------------------------------------------------------
-
 float SECTOR_SIZE = 0.67; // 2/3
 
 void setup() {
